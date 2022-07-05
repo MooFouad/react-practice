@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-practice/static/css/main.ffd69845.css",
+    "main.js": "/react-practice/static/js/main.1863f90b.js",
+    "static/js/787.e14d8309.chunk.js": "/react-practice/static/js/787.e14d8309.chunk.js",
+    "static/media/tours.png": "/react-practice/static/media/tours.4f8b06e7690783293716.png",
+    "static/media/review.png": "/react-practice/static/media/review.cf05c88d2f30cb23193e.png",
+    "static/media/slider.png": "/react-practice/static/media/slider.fb75499520ff9008b7d5.png",
+    "static/media/taps.png": "/react-practice/static/media/taps.2b6d3ba5d738c4e9cfd6.png",
+    "static/media/color.png": "/react-practice/static/media/color.4cb0cee82c664415ac52.png",
+    "static/media/accordion.png": "/react-practice/static/media/accordion.3162931c960162e7e17b.png",
+    "static/media/to-do.png": "/react-practice/static/media/to-do.ee6851f21d9f3d61344f.png",
+    "index.html": "/react-practice/index.html",
+    "main.ffd69845.css.map": "/react-practice/static/css/main.ffd69845.css.map",
+    "main.1863f90b.js.map": "/react-practice/static/js/main.1863f90b.js.map",
+    "787.e14d8309.chunk.js.map": "/react-practice/static/js/787.e14d8309.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ffd69845.css",
+    "static/js/main.1863f90b.js"
+  ]
+}
